@@ -25,15 +25,3 @@ Tamamen sorunsuz yayınlanma v8 sürümünde gerçekleştirilecektir (Şu anki s
 Şu an Fluxo beta durumdadır bu yüzden politika ve lisans tamamen hazırlanmamıştır gelişim sürecinde bize destek çıkmak isterseniz yakında açık kaynak kodu paylaşılacaktır
 
 Fluxo 5.3.0 sürümünden itibaren hatalar ile karşılaşabilirsiniz bunlar beta için normal hatalardır
-
-## 🧩 Fluxo ile tarayıcınıza gelecek ekstra yenilikler (Bunlar test aşamasında olan özelliklerdir)
-
-Fluxo Quick Search, hızlıca yeni sekme açmadan arama yapabileceksiniz (multisearch özellikleriyle birlikte)
-
-Fluxo Lens, resimleri tarayabilecek ve resimleri bulabileceksiniz
-
-Search Manipulator, arama barına girilen anahtar kelimeyi otomatik olarak değiştirebileceksiniz
-
-Fluxo Feed +, kendi rss akışını özel bir widget ile takip edebileceksiniz
-
-ve dahası...
